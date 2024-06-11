@@ -35,10 +35,10 @@
 
 ### E-commerce Platforms:
 
+![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
 ![Wix](https://img.shields.io/badge/Wix-%230DB0D7.svg?style=for-the-badge&logo=Wix&logoColor=white)&nbsp;
 ![Tray](https://img.shields.io/badge/Tray-%23E34F26.svg?style=for-the-badge&logoColor=white)&nbsp;
 ![Nuvemshop](https://img.shields.io/badge/Nuvemshop-%23FF6B00.svg?style=for-the-badge&logoColor=white)&nbsp;
-![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
 
 ### Artificial Intelligence:
 
