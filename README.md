@@ -51,29 +51,11 @@
 
 ## Sobre:
 
-Com 5 anos de experiência como Analista de Suporte TI, desenvolvi uma base sólida em resolução de problemas e gerenciamento de sistemas. Agora, estou canalizando essa experiência para uma nova jornada no desenvolvimento de software, com um foco especial em Full-Stack. Atualmente, estou me especializando em .NET, buscando transformar desafios técnicos em soluções inovadoras e eficientes.
+Tenho 5 anos de experiência em Suporte Técnico de TI, atuando com manutenção de infraestrutura, controle de acessos, instalação de hardwares e softwares, monitoramento de sistemas e atendimento a usuários.
 
----
+Já trabalhei em ambientes corporativos e institucionais, sempre com foco na resolução rápida de problemas e na estabilidade dos sistemas. Me considero uma pessoa organizada, comprometida e com facilidade para aprender e lidar com novos desafios.
 
-O que me define:
-
-• Assiduidade e Organização: Comprometido com a entrega de resultados e a manutenção de altos padrões de qualidade.
-
-• Competência e Disciplina: Habilidade para lidar com problemas complexos de forma lógica e analítica.
-
-• Proatividade e Aprendizagem Contínua: Sempre em busca de novas tecnologias e tendências para aprimorar meus conhecimentos e habilidades.
-
----
-
-Idiomas:
-
-• Português: Nativo
-
-• Inglês: Conhecimentos básicos para escrita e leitura
-
----
-
-Estou entusiasmado com esta transição e ansioso para aplicar minha experiência em suporte técnico ao desenvolvimento de soluções robustas e escaláveis. Se você está procurando um profissional dedicado e com uma perspectiva única sobre a integração entre suporte técnico e desenvolvimento, ficarei feliz em conectar!
+Atualmente, estou focado na área de suporte, mas também venho estudando desenvolvimento de software, com interesse em seguir futuramente na carreira de desenvolvedor .NET.
 
 ---
 
