@@ -1,10 +1,5 @@
-## Olá! Me chamo Matheus Pimenta 🖖🏼👽
-
-&nbsp;
-&nbsp;
-
-![Matheus Pimenta GitHub stats](https://github-readme-stats.vercel.app/api?username=mthpmt&show_icons=true&theme=neon)&nbsp;&nbsp;
-&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthpmt&layout=compact&theme=neon)
+![Matheus Pimenta GitHub stats](https://github-stats-extended.vercel.app/api?username=mthpmt&show_icons=true&theme=neon)&nbsp;&nbsp;
+&nbsp;&nbsp;![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mthpmt&layout=compact&theme=neon)
 
 &nbsp;
 &nbsp;
@@ -20,7 +15,6 @@
 ### Inteligência Artificial:
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff)&nbsp;
 
 ### Ferramentas de estação de trabalho:
 
@@ -34,8 +28,6 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -51,12 +43,10 @@
 
 ## Sobre:
 
-Tenho 5 anos de experiência em Suporte Técnico de TI, atuando com manutenção de infraestrutura, controle de acessos, instalação de hardwares e softwares, monitoramento de sistemas e atendimento a usuários.
+💻 Estudando C# e .NET, com foco em desenvolvimento de software.
 
-Já trabalhei em ambientes corporativos e institucionais, sempre com foco na resolução rápida de problemas e na estabilidade dos sistemas. Me considero uma pessoa organizada, comprometida e com facilidade para aprender e lidar com novos desafios.
+🚀 Atualmente construindo projetos para fortalecer meu portfólio e evoluir como desenvolvedor.
 
-Atualmente, estou focado na área de suporte, mas também venho estudando desenvolvimento de software, com interesse em seguir futuramente na carreira de desenvolvedor .NET.
+🛠️ Experiência anterior em Suporte Técnico de TI, atuando com infraestrutura, atendimento a usuários e administração de sistemas.
 
----
-
-🎓 Graduando em Análise e Desenvolvimento de Sistemas pela Descomplica Faculdade Digital.
+🎯 Meu objetivo é construir aplicações modernas, aprender continuamente e conquistar uma oportunidade como Desenvolvedor .NET.
